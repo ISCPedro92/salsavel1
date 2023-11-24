@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SalsaVel</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<nav id="menu" align="center"> 
+<table align="center">
+    <td ><a href="empresa.html" > <img src="images/menu/boton empresa.png"  style="width:126" ; height="89" /></a></td>
+    <td><a href="productos.html"><img src="images/menu/boton producto.png"  style="width:126" ; height="89" /> </a></td>
+    <td><a href="contacto.html"> <img src="images/menu/boton contacto.png"  style="width:126" ; height="89"/></a></td>
+</table>
+</nav>
+
+<div  id="principal"  align="center">
+<img src="images/home/logo home.png"  />
+</div>
+
+<div id="footerindex">
+<table width="200" height="300" border="0" align="center">
+  <tr>
+    <td><img src="images/home/pizza home.png" width="369" height="228" /></td>
+    <td><img src="images/home/aguachile home.png" width="289" height="228"/></td>
+    <td><img src="images/home/fruta home.png" width="325" height="228" /></td>
+     <td><img src="images/home/hamburguesa home.png" width="291" height="228" /></td>
+  </tr>
+  </table>
+</div>
+
+</body>
+</html>
